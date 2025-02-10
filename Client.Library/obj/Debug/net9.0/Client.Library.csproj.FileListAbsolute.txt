@@ -1,0 +1,12 @@
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\bin\Debug\net9.0\Client.Library.deps.json
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\bin\Debug\net9.0\Client.Library.dll
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\bin\Debug\net9.0\Client.Library.pdb
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.AssemblyInfoInputs.cache
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.AssemblyInfo.cs
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.sourcelink.json
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.dll
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\refint\Client.Library.dll
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\Client.Library.pdb
+C:\Users\jdols\OneDrive\College Work\Junior Sem 2\Programming 2\Assignments\Week 4\cis-230-sp25-03-week-04-JDOlson1\Client.Library\obj\Debug\net9.0\ref\Client.Library.dll
